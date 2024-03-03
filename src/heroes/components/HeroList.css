@@ -1,0 +1,7 @@
+.wrapper-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    transition: all 0.15s linear;
+}
